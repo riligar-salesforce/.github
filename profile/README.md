@@ -1,143 +1,54 @@
 # RiLiGar - Salesforce
 
-> Custom Salesforce Development That Supercharges Your CRM
+> Real Software Engineering for Your CRM.
 
-Transform your Salesforce into exactly what your business needs with Lightning Web Components, custom integrations, and intelligent automations. Clean, maintainable code backed by 20+ years of software engineering expertise.
+Your Salesforce org is a critical business platform, not a place for quick fixes. We aren't just Salesforce developers—we are **software engineers who specialize in Salesforce**.
 
-## 🚀 What We Do
+We transform your CRM with clean, testable, and scalable code, backed by over 20 years of software engineering expertise.
 
-We build custom Salesforce solutions that deliver measurable business impact. Our approach combines deep Salesforce platform knowledge with enterprise software engineering best practices—proper testing, version control, CI/CD, and maintainable code architecture.
+## 🎯 Why RiLiGar? The Engineering Factor.
 
-### Core Capabilities
+We apply enterprise-grade software engineering practices to the Salesforce ecosystem. This means:
 
-- **Lightning Web Components (LWC)** - Modern, performant custom components for any use case
-- **Custom Integrations** - Connect Salesforce with ERPs, databases, APIs, and external systems
-- **Process Automation** - Flows, Apex triggers, and scheduled jobs that eliminate manual work
-- **Component Libraries** - Reusable, documented components that boost team productivity
-- **Custom Business Logic** - Complex rules and validations that scale with your data
-- **Security & Compliance** - Field-level security, sharing rules, and custom authentication
+✅ **Clean & Scalable Code**
+No more technical debt. We build solutions that grow with your business, are easy to maintain, and respect Governor Limits.
 
-## 💡 Solutions We Build
+✅ **Modern DevOps (SFDX, CI/CD)**
+We use a source-driven development flow with Git, Scratch Orgs, and CI/CD pipelines (GitHub Actions / Jenkins) for fast, reliable deployments.
 
-### Sales Pipeline Enhancement
-Custom components for lead scoring, opportunity tracking, and forecasting. Automate lead routing, follow-ups, and reporting.
+✅ **Testing as a Priority**
+We guarantee 95%+ Apex code coverage and robust LWC unit testing (Jest). Your code works—and keeps working.
 
-**Typical Results:**
-- 30% faster lead response time
-- Real-time pipeline visibility
-- 25% increase in close rates
+✅ **Software Architecture**
+We don't just jump into code. We design solutions that are performant, secure, and aligned with platform best practices.
 
-### Service Console Customization
-Custom case management interfaces, knowledge base integrations, and omnichannel routing for support teams.
+## 🚀 Our Specialties
 
-**Typical Results:**
-- 40% faster case resolution
-- Unified customer view
-- Automated case routing
+We focus on custom solutions that deliver real business impact.
 
-### Marketing Automation Integration
-Sync Salesforce with platforms like HubSpot, Marketo, or Mailchimp. Track campaign performance and attribution.
+  * **Custom LWC Components:** Modern, performant, and reusable interfaces (Sales, Service, etc.).
+  * **Complex Integrations:** We connect Salesforce with any external system (ERPs, APIs, Databases) via REST, SOAP, or Platform Events.
+  * **Intelligent Automation:** We optimize processes using Flows, Triggers, and Batch Apex, eliminating manual work and bottlenecks.
+  * **Component Libraries:** We create and maintain reusable LWC libraries (like our `riligar-components` project) to boost your team's productivity.
+  * **Business Logic & Security:** We implement complex rules, validations, and security models that scale with your data.
 
-**Typical Results:**
-- Real-time lead scoring
-- Campaign ROI tracking
-- Attribution reporting
+## 🛠️ Core Tech Stack
 
-### Custom Data Dashboards
-Interactive Lightning dashboards with custom visualizations, real-time KPIs, and mobile-responsive design.
+| Area | Technologies |
+| :--- | :--- |
+| **Core** | Apex, Lightning Web Components (LWC), JavaScript (ES6+), SOQL/SOSL |
+| **Testing** | Apex Test Classes (95%+), Jest, Salesforce Code Analyzer, PMD |
+| **DevOps** | Salesforce DX (SFDX), Git, VS Code, CI/CD (GitHub Actions / Jenkins) |
+| **Integration** | REST/SOAP APIs, Platform Events, Change Data Capture (CDC), MuleSoft |
 
-**Typical Results:**
-- Real-time business metrics
-- Mobile-friendly access
-- Export capabilities
+## 📞 Let's Get Started
 
-## 🛠️ Technology Stack
+Ready to transform your Salesforce org with real software engineering?
 
-### Frontend Development
-- Lightning Web Components (LWC)
-- JavaScript (ES6+)
-- Aura Components (legacy support)
-- Salesforce Lightning Design System (SLDS)
-- lwc-test-suite for unit testing
-
-### Backend & Logic
-- Apex (Salesforce programming language)
-- Triggers & Batch Apex
-- Apex REST & SOAP Web Services
-- Custom Controllers & Extensions
-- Governor limits optimization
-
-### Automation & Flow
-- Flow Builder (Screen, Record-Triggered, Scheduled)
-- Process Builder (legacy support)
-- Custom Apex Actions for Flow
-- Platform Events for integration
-- Change Data Capture (CDC)
-
-### Data & Integration
-- SOQL & SOSL
-- REST & SOAP API integration
-- MuleSoft (for complex integrations)
-- External Objects & OData
-- Heroku Connect
-
-### Testing & Quality
-- Apex Test Classes (95%+ coverage)
-- Jest for LWC unit testing
-- PMD & ApexMetrics for code quality
-- Salesforce Code Analyzer
-- Continuous Integration (CI/CD)
-
-### DevOps & Deployment
-- Salesforce DX (SFDX)
-- Git for version control
-- VS Code with Salesforce extensions
-- Scratch orgs for development
-- GitHub Actions / Jenkins for CI/CD
-
-## 📊 Our Impact
-
-| Metric | Result |
-|--------|--------|
-| **Productivity Increase** | 40% on average |
-| **Code Coverage** | 95%+ on all Apex code |
-| **User Adoption** | 100% with intuitive UX |
-| **Typical Delivery** | 2-6 weeks with regular demos |
-
-## 🎯 Why RiLiGar for Salesforce?
-
-We're not just Salesforce developers—we're **software engineers who specialize in Salesforce**. That means:
-
-✅ **Clean, Maintainable Code** - No quick hacks that become tech debt  
-✅ **Comprehensive Testing** - 95%+ code coverage with automated testing  
-✅ **Modern DevOps** - Git, CI/CD, source-driven development  
-✅ **Scalable Architecture** - Solutions that grow with your business  
-✅ **20+ Years Experience** - Enterprise software engineering expertise  
-
-Your Salesforce org is too important for shortcuts—it deserves engineering excellence.
-
-## 🌐 Technologies & Best Practices
-
-- **Modern JavaScript** - ES6+, async/await, proper error handling
-- **Component Architecture** - Reusable, composable, well-documented
-- **Testing First** - Unit tests, integration tests, end-to-end tests
-- **Version Control** - Git-based development with proper branching
-- **CI/CD Pipeline** - Automated testing and deployment
-- **Governor Limits** - Bulkified code that respects platform limits
-- **Documentation** - Clear, comprehensive technical documentation
-
-## 📞 Get Started
-
-Ready to transform your Salesforce org with custom solutions that deliver real business value?
-
-**Contact Us:**
-- WhatsApp: [+55 11 98616-6966](https://wa.me/5511986166966)
-- Website: [riligar.com](https://riligar.com)
-
-## 📄 License
-
-This projects is proprietary software developed by RiLiGar.
+  * **WhatsApp:** [+55 11 98616-6966](https://wa.me/5511986166966)
+  * **Website:** [riligar](https://riligar.click)
 
 <div align="center">
-  **RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent agent systems*
+ 
+ **RiLiGar** © 2025 - <i>Building the blocks for the next generation of intelligent agent systems</i>
 </div>
